@@ -4,7 +4,7 @@ An interactive Streamlit page built on the **Tourism – Lebanon 2023** dataset 
 observations for all 1,137 Lebanese towns) from the
 [AUB LINKED portal](https://linked.aub.edu.lb:8502/).
 
-**Live app:** <!-- paste your Streamlit Community Cloud link here -->
+**Live app:** <!-- paste your Streamlit Community Cloud link here --> https://msba325-lebanon-tourism-app-dhzxuzrucwuuraxyptsm6a.streamlit.app/ 
 
 ## What the page shows
 
